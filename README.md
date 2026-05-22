@@ -67,7 +67,7 @@ This streams 1,128 molecular records into the `chem-raw` Kafka topic at 0.5s int
 
 - [x] Phase 1 — Kafka environment setup with Docker
 - [x] Phase 2 — Python producer streaming ESOL dataset
-- [ ] Phase 3 — PySpark batch ETL and feature engineering
+- [x] Phase 3 — PySpark batch ETL and feature engineering
 - [ ] Phase 4 — PyFlink real-time data quality checks
 
 ## License
